@@ -1,3 +1,3 @@
-So, basically starting my beginner level project for learning data science i choosed on working for
-fake news detection  in jupyter notebook using python programming langugage. for this project 
+So, Basically starting my beginner level project for learning Data Science I choosed on working for
+Fake News Detection  in Jupyter Notebook using Python programming langugage. For this project 
 various  NLP techniques and ML algorithms are used.
